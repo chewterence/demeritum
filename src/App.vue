@@ -1,28 +1,85 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-app>
+    <v-main>
+      <Header/>
+
+    <div id="nav">
+      <ul id="nav-list">
+      <router-link to="/essay" id="nav-element">
+          Essay
+      </router-link>
+      <router-link to="/game" id="nav-element">
+          Game
+      </router-link>
+      <router-link to="/about" id="nav-element">
+          About
+      </router-link>
+      </ul>
+    </div>
+      <hr>
+    <router-view/>
+
+
+    </v-main>
+  </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Header from './components/Header.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
-}
+    Header,
+  },
+  created () {
+    this.$vuetify.theme.dark = true
+  },
+
+  data: () => ({
+  }),
+};
 </script>
 
-<style>
+<style scoped>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Arimo', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  color: #daffd3;
+  text-decoration: none;
+  position: relative;
 }
-</style>
+
+#nav-list {
+  list-style: none;
+  /* display: inline-flex; */
+}
+
+#nav {
+  padding: 10px;
+  text-decoration: none;
+  text-align: left;
+  font-size:28px;
+  font-family: 'Arimo', sans-serif;
+  /* margin-left: 1px; */
+}
+
+#nav-element:hover {
+  color: #ffffff;
+  font-size:30px;
+}
+
+#nav a {
+  font-weight: bold;
+  color: #878787;
+  text-decoration: none;
+  margin-left: 6px;
+}
+
+#nav a.router-link-exact-active {
+  color: #dedede;
+  text-decoration: none;
+}
+</style>>
