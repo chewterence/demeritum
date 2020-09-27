@@ -6,13 +6,16 @@
     <div id="nav">
       <ul id="nav-list">
       <router-link to="/essay" id="nav-element">
-          Essay
+      <v-icon large class="mr-2">mdi-book-open-variant</v-icon>
+          Exagium
       </router-link>
       <router-link to="/game" id="nav-element">
-          Game
+      <v-icon large class="mr-2">mdi-gamepad-variant</v-icon>
+          Ludo
       </router-link>
       <router-link to="/about" id="nav-element">
-          About
+      <v-icon large class="mr-2">mdi-account-question</v-icon>
+          Fere
       </router-link>
       </ul>
     </div>
@@ -79,7 +82,7 @@ export default {
 }
 
 #nav a.router-link-exact-active {
-  color: #dedede;
+  color: #ff0000;
   text-decoration: none;
 }
 </style>>
