@@ -9,7 +9,7 @@
         md="6"
       >
         <v-img
-          :src="require('@/assets/tembusuroom.png')"
+          :src="require('@/assets/tembulogo.png')"
           height="100vh"
         />
       </v-col>
@@ -32,17 +32,10 @@
             cols="10"
             md="6"
           >
-            <base-heading>Implications</base-heading>
+            <base-heading>About This Project</base-heading>
             <base-text>
-              Lorem ipsum dolor sit amet, consectetur ad
-              ipiscin elit. Etiam vulputate augue vel felis gra
-              vida porta. Lorem ipsum dolor sit amet, cons
-              ectetur adipiscing elit.
+Created by: Chew Hong Wei Terence for Tembusu College UTC2113 Gaming Life Seminar
 <br>
-              Lorem ipsum dolor sit amet, consectetur ad
-              ipiscin elit. Etiam vulputate augue vel felis gra
-              vida porta. Lorem ipsum dolor sit amet, cons
-              ectetur adipiscing elit.
             </base-text>
           </v-col>
         </v-row>

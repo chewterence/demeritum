@@ -1,6 +1,6 @@
 <template>
     <header class="header" style="">
-        <p style="font-size:50px; font-family: 'Arimo', sans-serif; margin: 18px; padding: 15px">
+        <p style="font-size:69px; font-family: 'Arimo', sans-serif; margin: 18px; padding: 15px">
             <!-- <img alt="How2Grad Logo" src="./logo.png" style="width:100px;height:90px;"> -->
             Dēmeritum
         </p>

@@ -1,5 +1,16 @@
 <template>
   <div class="about">
-    <h2>Created by: Chew Hong Wei Terence for Tembusu College UTC2113 Gaming Life Seminar</h2>
+    <AboutComponent />
   </div>
 </template>
+
+
+<script>
+
+export default {
+    name: 'About',
+    components: {
+    AboutComponent: () => import('@/components/AboutComponent'),
+    }
+}
+</script>

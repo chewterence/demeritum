@@ -62,13 +62,13 @@ export default {
   padding: 10px;
   text-decoration: none;
   text-align: left;
-  font-size:30px;
+  font-size:28px;
   font-family: 'Arimo', sans-serif;
 }
 
 #nav-element:hover {
   color: #ffffff;
-  font-size:32px;
+  font-size:30px;
 }
 
 #nav a {
@@ -79,7 +79,7 @@ export default {
 }
 
 #nav a.router-link-exact-active {
-  color: #ffffff;
+  color: #b6b6b6;
   text-decoration: none;
 }
 </style>

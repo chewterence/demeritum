@@ -39,14 +39,11 @@ late 14c., "that which is censurable, wrong-doing, an offense, a crime," from Ol
  demerit" (Modern French démérite), from des- "not, opposite" (see dis-) + merite "merit" (see merit (n.)) or
   from Latin demeritum "fault," from past-participle stem of demereri "to merit, deserve," from de- in its completive sense.
 <br>
-              Lorem ipsum dolor sit amet, consectetur ad
+              <!-- Lorem ipsum dolor sit amet, consectetur ad
               ipiscin elit. Etiam vulputate augue vel felis gra
               vida porta. Lorem ipsum dolor sit amet, cons
-              ectetur adipiscing elit.
+              ectetur adipiscing elit. -->
             </base-text>
-            <base-btn class="mt-4">
-              Learn More!
-            </base-btn>
           </v-col>
         </v-row>
 
