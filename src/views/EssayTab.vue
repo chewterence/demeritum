@@ -1,5 +1,6 @@
 <template>
-    <v-card>
+    <div>
+    <!-- <v-card>
         <p>
             demerit (n.)
 late 14c., "that which is censurable, wrong-doing, an offense, a crime," from Old French desmerite "blame, demerit" (Modern French démérite), from des- "not, opposite" (see dis-) + merite "merit" (see merit (n.)) or from Latin demeritum "fault," from past-participle stem of demereri "to merit, deserve," from de- in its completive sense.
@@ -7,7 +8,12 @@ late 14c., "that which is censurable, wrong-doing, an offense, a crime," from Ol
         <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
-    </v-card>
+    </v-card> -->
+      <Segment1 />
+      <Segment2 />
+      <Segment3 />
+
+    </div>
 </template>
 
 <script>
@@ -15,6 +21,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 export default {
     name: 'Essay',
     components: {
+    Segment1: () => import('@/components/Segment1'),
+    Segment2: () => import('@/components/Segment2'),
+    Segment3: () => import('@/components/Segment3'),
     }
 }
 </script>

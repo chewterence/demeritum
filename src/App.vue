@@ -22,7 +22,6 @@
       <hr>
     <router-view/>
 
-
     </v-main>
   </v-app>
 </template>
@@ -57,7 +56,6 @@ export default {
 
 #nav-list {
   list-style: none;
-  /* display: inline-flex; */
 }
 
 #nav {
@@ -66,7 +64,6 @@ export default {
   text-align: left;
   font-size:28px;
   font-family: 'Arimo', sans-serif;
-  /* margin-left: 1px; */
 }
 
 #nav-element:hover {
@@ -85,4 +82,4 @@ export default {
   color: #ff0000;
   text-decoration: none;
 }
-</style>>
+</style>
