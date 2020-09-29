@@ -9,7 +9,7 @@
         md="6"
       >
         <v-img
-          :src="require('@/assets/tembusulivingroom.png')"
+          :src="require('@/assets/tembusuroom.png')"
           height="100vh"
         />
       </v-col>

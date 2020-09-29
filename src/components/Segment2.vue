@@ -52,7 +52,7 @@ late 14c., "that which is censurable, wrong-doing, an offense, a crime," from Ol
         md="6"
       >
         <v-img
-          :src="require('@/assets/tembusucorridor.jpg')"
+          :src="require('@/assets/readingroom.png')"
           height="100vh"
         />
       </v-col>
