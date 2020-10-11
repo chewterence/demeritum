@@ -8,19 +8,19 @@
       <router-link to="/essay" id="nav-element">
       <v-icon large class="mr-2">mdi-book-open-variant</v-icon>
           <span class="display-1 v-heading mb-3 font-weight-normal">
-          Exagium
+          Read
           </span>
       </router-link>
       <router-link to="/game" id="nav-element">
       <v-icon large class="mr-2">mdi-gamepad-variant</v-icon>
         <span class="display-1 v-heading mb-3 font-weight-normal">
-          Ludo
+          Play
         </span>
       </router-link>
       <router-link to="/about" id="nav-element">
       <v-icon large class="mr-2">mdi-account-question</v-icon>
         <span class="display-1 v-heading mb-3 font-weight-normal">
-          Fere
+          About
         </span>
       </router-link>
       </ul>
