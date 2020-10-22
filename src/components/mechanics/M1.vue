@@ -9,7 +9,7 @@
         md="6"
       >
         <v-img
-          :src="require('@/assets/corridor.jpg')"
+          :src="require('@/assets/mechanics/code1.png')"
           height="100vh"
         />
       </v-col>
@@ -32,14 +32,15 @@
             cols="10"
             md="6"
           >
-            <base-heading>The Demerit Point System</base-heading>
+            <base-heading>Happiness, Time & Demerit Points</base-heading>
             <base-text>
-From des "not, opposite" + merite "merit"; or in its Latin form “demeritum”.
-A system constructed to moderate behaviour, whereby penalty points are awarded when offences are committed.
-Accumulation of points past a defined threshold would result in punitive measures against the offender.
-<br><br>
-Commonly used in countries’ traffic regulations, a point is awarded to an individual’s driver’s license upon conviction of a driving offense.
-The demerit point system is also used in educational institutions to control misbehaviour such as in university halls and hostels.
+While wrongdoings are already quantified by Demerit points, this game further quantifies Happiness and Time into points.
+These are numerical values that the player 'trades' in the game, with certain actions having more weight
+in terms of numerical values of points.
+<br>
+For major events, the player would be notified of points they have gained and lost (illustrated by the red text in the game).
+However, not every point modification would be notified to the player. For instance, as the game progresses,
+time points would be gradually decreasing.
             </base-text>
           </v-col>
         </v-row>

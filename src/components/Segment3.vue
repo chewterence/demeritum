@@ -9,7 +9,7 @@
         md="6"
       >
         <v-img
-          :src="require('@/assets/tembusuroom.png')"
+          :src="require('@/assets/livingroom.jpg')"
           height="100vh"
         />
       </v-col>
@@ -32,17 +32,14 @@
             cols="10"
             md="6"
           >
-            <base-heading>Implications</base-heading>
+            <base-heading>The Game</base-heading>
             <base-text>
-              Lorem ipsum dolor sit amet, consectetur ad
-              ipiscin elit. Etiam vulputate augue vel felis gra
-              vida porta. Lorem ipsum dolor sit amet, cons
-              ectetur adipiscing elit.
-<br>
-              Lorem ipsum dolor sit amet, consectetur ad
-              ipiscin elit. Etiam vulputate augue vel felis gra
-              vida porta. Lorem ipsum dolor sit amet, cons
-              ectetur adipiscing elit.
+Under the "Game" tab a player would be able to explore this possibility of gaming the demerit point system. The objective would be to navigate
+through a fictional semester in Tembusu College, to try and obtain the highest amount of 'Happiness' and 'Time' points as possible.
+Players would be presented with different situations which could affect the outcome of the story.
+<br><br>
+The "Mechanics" tab explains certain game mechanics present, as well as the rationale behind each game mechanic.
+However, one should of course first play the game.
             </base-text>
           </v-col>
         </v-row>

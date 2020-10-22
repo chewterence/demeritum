@@ -34,7 +34,13 @@
           >
             <base-heading>About This Project</base-heading>
             <base-text>
-Created by: Chew Hong Wei Terence for Tembusu College UTC2113 Gaming Life Seminar
+Created by:
+<br>
+Chew Hong Wei Terence
+<br>
+for Tembusu College
+<br>
+UTC2113 Gaming Life Seminar
 <br>
             </base-text>
           </v-col>

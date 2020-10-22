@@ -23,17 +23,15 @@
             cols="10"
             md="6"
           >
-            <base-heading>Power</base-heading>
+            <base-heading>Escalation & <br> De-escalation</base-heading>
             <base-text>
-              Lorem ipsum dolor sit amet, consectetur ad
-              ipiscin elit. Etiam vulputate augue vel felis gra
-              vida porta. Lorem ipsum dolor sit amet, cons
-              ectetur adipiscing elit.
-              <br>
-Knowledge of the rules perhaps gives the controlled (you) more 
-power than the controller intends. When penalties are quantified by a 
-numerical value, could the demerit point system be exploited? 
-Or in other words could it be gamed?
+Players would embark on a sub-story upon selecting scenarios which could possibly result in demerit points. Along each step towards getting caught (getting a demerit point), players
+gain happiness/time points (along the red arrow).
+<br><br>
+Players would also be given the choice to 'de-escalate' (green arrow) the situation for instance, 'stopping the party early'.
+This way a player could obtain happiness and time points without getting 'caught' (without the cost of demerit points).
+              <br><br>
+One of the core mechanics of this game, this allows players to 
             </base-text>
           </v-col>
         </v-row>
@@ -49,7 +47,7 @@ Or in other words could it be gamed?
         md="6"
       >
         <v-img
-          :src="require('@/assets/building.jpg')"
+          :src="require('@/assets/mechanics/code4.png')"
           height="100vh"
         />
       </v-col>

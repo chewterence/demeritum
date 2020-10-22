@@ -17,8 +17,14 @@
           Play
         </span>
       </router-link>
+      <router-link to="/mechanics" id="nav-element">
+      <v-icon large class="mr-2">mdi-hammer-wrench</v-icon>
+        <span class="display-1 v-heading mb-3 font-weight-normal">
+          Mechanics
+        </span>
+      </router-link>
       <router-link to="/about" id="nav-element">
-      <v-icon large class="mr-2">mdi-account-question</v-icon>
+      <v-icon large class="mr-2">mdi-account-circle</v-icon>
         <span class="display-1 v-heading mb-3 font-weight-normal">
           About
         </span>
