@@ -26,12 +26,11 @@
             <base-heading>Escalation & <br> De-escalation</base-heading>
             <base-text>
 Players would embark on a sub-story upon selecting scenarios which could possibly result in demerit points. Along each step towards getting caught (getting a demerit point), players
-gain happiness/time points (along the red arrow).
+could escalate the situation and gain happiness/time points (along the red arrow).
 <br><br>
-Players would also be given the choice to 'de-escalate' (green arrow) the situation for instance, 'stopping the party early'.
-This way a player could obtain happiness and time points without getting 'caught' (without the cost of demerit points).
+They would also be given the choice to 'de-escalate' (green arrow) the situation for instance, 'stopping the party early'.
+This way a player could obtain happiness and time points without getting 'caught' (without costing demerit points).
               <br><br>
-One of the core mechanics of this game, this allows players to 
             </base-text>
           </v-col>
         </v-row>

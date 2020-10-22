@@ -25,15 +25,13 @@
           >
             <base-heading>Power</base-heading>
             <base-text>
-              Lorem ipsum dolor sit amet, consectetur ad
-              ipiscin elit. Etiam vulputate augue vel felis gra
-              vida porta. Lorem ipsum dolor sit amet, cons
-              ectetur adipiscing elit.
-              <br>
-Knowledge of the rules perhaps gives the controlled (you) more 
+It is present in countries’ traffic regulations, where a point is awarded to an individual’s driver’s license upon conviction of a driving offense.
+The demerit point system is also used in educational institutions to control misbehaviour such as in university halls and hostels.
+              <br><br>
+Knowledge of the rules perhaps gives the controlled more 
 power than the controller intends. When penalties are quantified by a 
 numerical value, could the demerit point system be exploited? 
-Or in other words could it be gamed?
+Or in other words could the system be gamed?
             </base-text>
           </v-col>
         </v-row>

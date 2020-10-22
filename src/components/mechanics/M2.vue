@@ -25,12 +25,12 @@
           >
             <base-heading>Story Navigation</base-heading>
             <base-text>
-Created using the Twine 2.0 engine, the game begins as a linear story that eventually fans out as the player makes choices, the story would
+The game begins as a linear story that eventually fans out as players make their choices, the story would
 then merge back as the sequence ends. There are 8 main sequences in the story to explore, each with several sub-sequences that a player could
-experience depending on their choices.
+experience depending on the choices they make.
               <br><br>
 The default ability to back navigate in the story has been intentionally disabled, such that the player would not be able to undo their
-actions once they have selected it. Players could replay the game, to attempt to obtain a higher score (with higher happiness and time points).
+actions once they have selected it. Players could replay the game once it finishes, to attempt to obtain a higher score (with higher happiness and time points).
             </base-text>
           </v-col>
         </v-row>

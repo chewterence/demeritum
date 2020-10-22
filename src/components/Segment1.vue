@@ -38,8 +38,7 @@ From des "not, opposite" + merite "merit"; or in its Latin form “demeritum”.
 A system constructed to moderate behaviour, whereby penalty points are awarded when offences are committed.
 Accumulation of points past a defined threshold would result in punitive measures against the offender.
 <br><br>
-Commonly used in countries’ traffic regulations, a point is awarded to an individual’s driver’s license upon conviction of a driving offense.
-The demerit point system is also used in educational institutions to control misbehaviour such as in university halls and hostels.
+
             </base-text>
           </v-col>
         </v-row>

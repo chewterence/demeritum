@@ -9,7 +9,7 @@
         md="6"
       >
         <v-img
-          :src="require('@/assets/tembulogo.png')"
+          :src="require('@/assets/about.png')"
           height="100vh"
         />
       </v-col>
@@ -41,8 +41,14 @@ Chew Hong Wei Terence
 for Tembusu College
 <br>
 UTC2113 Gaming Life Seminar
+<br><br><br>
+Game created with Twine 2.0 Harlowe,
 <br>
+hosted on itch.io
+<br>
+Website made with Vue.js hosted on Netlify
             </base-text>
+            
           </v-col>
         </v-row>
 
