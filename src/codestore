@@ -1,0 +1,8 @@
+var kingsley = document.createElement('audio');
+kingsley.src = 'https://www.dropbox.com/s/v9auzvblaii5z74/dance%20of%20the%20sugar%20plum%20fairy.mp3?dl=1'
+kingsley.loop = true;
+kingsley.play();
+
+
+
+<iframe frameborder="0" src="https://itch.io/embed-upload/2868847?color=333333" allowfullscreen="" width="800" height="820"><a href="https://chewterence.itch.io/test">Play demeritumtest on itch.io</a></iframe>
