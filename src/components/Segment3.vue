@@ -34,10 +34,10 @@
           >
             <base-heading>The Game</base-heading>
             <base-text>
-Under the "Game" tab a player would be able to explore this possibility of gaming the demerit point system that is in place for residents of the National University of Singapore (NUS). The objective would be to navigate
-through a fictional semester in Tembusu College, to try and obtain the highest amount of 'Happiness' and 'Time' points as possible.
-Players would be presented with different situations which could affect the outcome of the story.
+To explore the possibility of gaming the system, what is more befitting than through a game? Under the "Game" tab a player would be able to explore this possibility of gaming the demerit point system that is in place for students residing on the National University of Singapore's (NUS) campus.
 <br><br>
+The objective would be to navigate through a fictional semester in Tembusu College, to try and obtain the highest amount of 'Happiness' and 'Time' points as possible.
+Players would be presented with different situations which could affect the outcome of the story.
 The "Mechanics" tab explains certain game mechanics present, as well as the rationale behind each game mechanic.
 However, one should first play the game.
             </base-text>

@@ -23,7 +23,7 @@
             cols="10"
             md="6"
           >
-            <base-heading>Gaming Life?</base-heading>
+            <base-heading>Gaming Life</base-heading>
             <base-text>
 It is present in countries’ traffic regulations, where a point is awarded to an individual’s driver’s license upon conviction of a driving offense.
 The demerit point system is also used in educational institutions to control misbehaviour such as in university halls and hostels.
